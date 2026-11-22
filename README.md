@@ -1,7 +1,8 @@
 <p align="center">
   <a href="https://github.com/novathegreat01">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=1146&text=Idehen%20Jefferson" alt="Idehen Jefferson" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=1146&text=NOVA%20THE%20GREAT " alt="NOVA THE GREAT" />
 </p>
 
 <p align="center">
