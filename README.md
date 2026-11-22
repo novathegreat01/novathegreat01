@@ -9,7 +9,7 @@ Idehen Jefferson (NOVA THE GREAT)
 
 ### About Me
 
-Frontend Developer crafting responsive web apps with JavaScript, React &amp; Tailwind CSS. Growing into full stack development
+My name is Idehen Jefferson(NOVA TGE GREAT) and I am Frontend Developer who builds responsive web apps with React &amp; Tailwindcss. Currently growing into full stack development
 
  &nbsp;I'm currently working on **Personal development and in depth knowledge with my stacks**  
 
