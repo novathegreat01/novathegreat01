@@ -42,7 +42,7 @@ My name is Idehen Jefferson (NOVA THE GREAT) and I am Frontend Developer who bui
 - Freelance projects
 - Startup collaborations (remote)
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://linktr.ee/novathegreat01"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
