@@ -33,6 +33,15 @@ My name is Idehen Jefferson (NOVA THE GREAT) and I am Frontend Developer who bui
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+### What I Do
+- Build Responsive frontend web applications
+- Deploy ready frontend work
+- Improve UI and user experience 
+
+### Open To
+- Freelance projects
+- Startup collaborations (remote)
+
 ### 🔗 Connect With Me
 
 <p align="left">
