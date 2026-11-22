@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/novathegreat01">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=1146&text=Idehen%20Jefferson%20%7C%20NOVA%20THE%20GREAT" alt="Idehen Jefferson | NOVA THE GREAT" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=1146&text=Idehen%20Jefferson%20%7C%20NOVA%20THE%20GREAT" alt="Idehen Jefferson" />
   </a>
 </p>
 
