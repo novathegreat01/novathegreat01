@@ -1,10 +1,11 @@
-<p align="center" font="50px">
+<p align="center">
   <a href="https://github.com/novathegreat01">
-Idehen Jefferson (NOVA THE GREAT)
+    <h1 style="font-size: 42px;">Idehen Jefferson (NOVA THE GREAT)</h1>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=I%20am%20a%20frontend%20developer%20and%20an%20upcoming%20full%20stack%20developer;Bringing%20ideas%20to%20life" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=34&pause=1000&color=2f81f7&center=true&vCenter=true&width=1000&height=56&lines=I%20am%20a%20frontend%20developer%20and%20an%20upcoming%20full%20stack%20developer;Bringing%20ideas%20to%20life" alt="Typing headlines" />
 </p>
 
 ### About Me
