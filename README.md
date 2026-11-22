@@ -1,6 +1,6 @@
-<p align="center">
+<p align="center" font="50px">
   <a href="https://github.com/novathegreat01">
-IDEHEN JEFFERSON 
+Idehen Jefferson (NOVA THE GREAT)
 </p>
 
 <p align="center">
